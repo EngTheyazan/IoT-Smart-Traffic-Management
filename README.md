@@ -21,11 +21,9 @@ The system follows a rigorous design flow from conceptual modeling to simulation
 
 ### 📐 System Design Flowchart
 ![System Flowchart](Media/image5.png) 
-*(Note: Replace with the generated link after dragging image5.png here)*
 
 ### 🌐 Network Topology & Deployment
 ![Network Topology](Media/image6.png)
-*(Note: Replace with the generated link after dragging image6.png here)*
 
 ---
 
@@ -41,7 +39,7 @@ Using Python-based simulations, we generated and analyzed synthetic traffic data
 
 #### 📉 Statistical Visualization
 - **Traffic Volume & Average Speed:**
-![Traffic Analysis](Media/traffic_volume_over_time.jpg)
+![Traffic Analysis](Media/traffic_volume_over_time.png)
 
 - **Daily Distributions:**
 ![Occupancy Distribution](Media/occupancy_distribution.png)
